@@ -1,0 +1,25 @@
+body
+{
+    background-color: gray;
+    display: flex;
+}
+
+#ir
+{
+    border: solid rgb(115, 112, 112) 2px;
+    margin-left: 750px;
+    margin-top: 400px;
+    
+}
+#gomb
+{
+    width: 70px;
+    height: 30px;
+    border: solid rgb(115, 112, 112) 2px;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 400px;
+}
+
